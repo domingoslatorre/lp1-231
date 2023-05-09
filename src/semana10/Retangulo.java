@@ -1,9 +1,10 @@
 package semana10;
 
-// Classe
+// Classe - Representa um conceito/abstração
+// que deve ser implementado no programa
 public class Retangulo {
-    // Atributos
-     double base;
+    // Atributos 
+    public double base;
     public double altura;
 
     // Métodos
